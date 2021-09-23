@@ -26,9 +26,9 @@
 
 ## Catalog
 
-[MapReduce](md/MapReduce.md)
+[MapReduce](docs/MapReduce.md)
 
-[GFS](md/GFS.md)
+[GFS](docs/GFS.md)
 
-[BigTable](md/BigTable.md)
+[BigTable](docs/BigTable.md)
 
