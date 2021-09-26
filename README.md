@@ -24,6 +24,12 @@
 
 [Go](https://golang.org/doc/effective_go.html)
 
+
+
+[Raft可视化](http://thesecretlivesofdata.com/raft/)
+
+[Raft官网](https://raft.github.io/)
+
 ## Catalog
 
 [MapReduce](docs/MapReduce.md)
